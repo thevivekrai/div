@@ -1,7 +1,7 @@
 // trigger to play music in the background with sweetalert
 window.addEventListener('load', () => {
     Swal.fire({
-        title: 'Background mai chala lo?',
+        title: 'Background mai Gana chala lo?',
         icon: 'warning',
         showCancelButton: true,
         confirmButtonColor: '#3085d6',
